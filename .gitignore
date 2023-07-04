@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 .env
 node_modules/
+||||||| (empty tree)
+=======
+/node_modules
+.env
+>>>>>>> e4641c8 (TG Bot Initial Commit)
