@@ -1,8 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 node_modules/
 ||||||| (empty tree)
 =======
 /node_modules
+||||||| parent of ca45f02 (Add node_modules and .env to .gitignore)
+/node_modules
+=======
+node_modules/
+>>>>>>> ca45f02 (Add node_modules and .env to .gitignore)
 .env
 >>>>>>> e4641c8 (TG Bot Initial Commit)
